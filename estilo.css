@@ -1,0 +1,11 @@
+p {background-color: blue;
+    display: inline;
+}
+
+a {
+    background-color: brown;
+    display: inline-block;
+    width: 80%;
+}
+
+li {background-color: aqua;}
